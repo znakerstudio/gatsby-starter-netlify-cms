@@ -10,7 +10,7 @@ tags:
   - pr marketng
   - zarządzanie i administracja
 ---
-![flavor wheel](/img/zoompantone.jpg)
+(/img/zoompantone.jpg)
 
 Załóżmy, że prowadzisz własną firmę i próbujesz ją pokazać swoim klientom w internecie. Jeśli sam troszczysz się o klientów to napewno ich dobrze poznałeś i wiesz, że każdy z nich jest innych a tym co ich łączy jest twój biznes. Zastanów się co jest takiego w twojej działalności, że ludzie chętnie do Ciebie przychodzą.
 
@@ -18,7 +18,7 @@ Opdowiedź na podstawowe pytania w zakresie projektowania wizualnego to jedno. J
 
 ## Dobrze skomponowane słowa.
 
-Od tego ile klient zobaczy i przeczyta na stronie zależy Twój sukces. 
+Od tego ile klient zobaczy i przeczyta na stronie zależy Twój sukces.
 
 * nie przesadzaj z kolorami
 * napisz starannie specyfikację produktu
