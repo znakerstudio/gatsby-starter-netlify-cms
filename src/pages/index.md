@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Szybkie wejście do internetu
-image: /img/webcontenttrends2021.png
+image: /img/landingpage_webcontent_manager.png
 heading: Dlatego pomagam budować strony, które są szybkie, czytelne i trafiają w
   potrzeby rynku.
 subheading: Jeśli czytasz ten akapit to znaczy, że już osiągnąłem sukces :)
