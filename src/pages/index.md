@@ -2,14 +2,14 @@
 templateKey: index-page
 title: Szybkie wejście do internetu
 image: /img/zoompantone.jpg
-heading: Znaker Studio
-subheading: Gotowe rozwiązania. Gatsby + Netlify + Github + CMS app
+heading: "Dlatego pomagam budować strony, które są szybkie, przejrzyste i czytelne. "
+subheading: Jeśli czytasz ten akapit to znaczy, że już osiągnąłem sukces :)
 mainpitch:
-  title: WP Sites
-  description: >
-    Przechodzenie z trybu stron dynamicznych do stron statycznych. Zwiększenie
-    szybkości ładowania strony, integracja z systemem, bezpieczeństwo.
-description: Obsługa offline i online. Minimum kodu.
+  title: 3 sekundy
+  description: "3 sekundy. Tyle trwa uwaga klienta, który szuka usługi,
+    podpowiedzi lub gotowego produktu. "
+description: Świadczę usługi redaktorskie i marketingowe. Obsługuję strony w
+  trybie offline i online. Mam duże doświadczenie jako Content Manager.
 intro:
   blurbs:
     - image: /img/webcontentmanager.jpg
@@ -18,11 +18,16 @@ intro:
         HTML, CSS, JavaScript, PHP, MySQL, cPanel
         Sass, Bootstrap, Tailwind
         GitHub, Gatsby, Hugo
-    - image: /img/tutorials.png
+    - image: /img/apple-touch-icon.png
       text: Budowanie stron od początku do końca, przygotowanie nowoczesnych,
         przyjaznych w obsłudze i bezpiecznych witryn internetowych. Strony
         wizytowe, firmowe, portfolio, sklepy. Najczęściej używany framework
         WordPress.
+    - text: "Główne cele: Minimum kodu i maksymalne zaangażowanie klienta.
+        Przechodzenie z trybu stron dynamicznych do stron statycznych.
+        Zwiększenie szybkości ładowania strony, integracja z systemem,
+        bezpieczeństwo."
+      image: /img/apple-touch-icon.png
   heading: Web Content Manager
   description: Samodzielny specjalista w zakresie programowania, projektowania i
     realizacji. Menedżer treści multimedialnych, WWW, treści społecznościowych.
