@@ -8,9 +8,9 @@ description: WordPress, HTML, CSS, WooCommerce, MySQL, Photoshop, Adobe, Office,
   Atom, Visual Studio Code, Git.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/webcontentmanager.jpg
       text: "Przyjazne i szybkie strony www. "
-    - image: /img/coffee-gear.png
+    - image: /img/wordpress-logotype-wmark.png
       text: |
         Wygodny panel administracyjny.
   heading: What we offer
@@ -28,14 +28,14 @@ main:
     kolejności zajmuję się administracją strony. Wprowadzam na stronę treść,
     stylizuję ją i optymalizuję pod kątem SEO.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: website stronawww portfolio
+    image: /img/produkcja_stronywww.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: website stronawww portfolio
+    image: /img/okladkighfhf.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: website stronawww portfolio
+    image: /img/0002sadasd.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -43,7 +43,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/webcontentmanagment.jpg
 pricing:
   heading: "Cennik "
   description: Produkcja strony internetowej podzielona na etapy.
