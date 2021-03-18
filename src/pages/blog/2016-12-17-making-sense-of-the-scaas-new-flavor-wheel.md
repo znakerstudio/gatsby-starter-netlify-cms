@@ -4,7 +4,7 @@ title: Dobry wygląd, prosty przekaz.
 date: 2021-03-10T16:11:43.649Z
 description: "Przygotowanie dobrze wyglądającej i czytelnej strony wiąże się ze
   znajomością szeroko pojętej kultury komunikacji. "
-featuredpost: false
+featuredpost: true
 featuredimage: /img/zoompantone.jpg
 tags:
   - pr marketng
