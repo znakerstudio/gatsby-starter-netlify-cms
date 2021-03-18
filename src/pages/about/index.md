@@ -1,13 +1,13 @@
 ---
 templateKey: about-page
 path: /about
-title: O mnie
+title: Tworzę treści tekstowe i wizualne.
 ---
 ### Web Content Manager
 
-Studia wyższe. Tytuł mgr na Wydziale Nauk Humanistycznych. Od ponad dekady prace redaktorskie, korektorskie. Edycja stron internetowych.
+Mam studia wyższe, tytuł mgr na Wydziale Nauk Humanistycznych. Od ponad dekady pracuję jako redaktor, korektor. Zajmuję się edytowaniem nowych i już istniejących stron internetowych.
 
-## Wprowadzenie
+## Dzień dobry.
 
 Załóżmy, że prowadzisz własną firmę i próbujesz ją pokazać swoim klientom w internecie. Jeśli sam troszczysz się o klientów to napewno ich dobrze poznałeś i wiesz, że każdy z nich jest inny a tym co ich łączy jest twój biznes. Zastanów się co jest takiego w twojej działalności, że ludzie chętnie do Ciebie przychodzą.
 
