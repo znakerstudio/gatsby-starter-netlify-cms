@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 152.178px;
+        fill: #f30;
+        text-anchor: middle;
+        font-family: Oswald;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text id="WEB" class="cls-1" transform="translate(629.824 705.763) scale(5.133)"><tspan x="0">WEB</tspan></text>
+</svg>
