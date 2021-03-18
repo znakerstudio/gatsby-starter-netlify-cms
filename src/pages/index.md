@@ -10,25 +10,22 @@ mainpitch:
   description: "Tyle trwa uwaga klienta, który szuka usługi, odpowiedzi lub
     gotowego produktu. "
 description: Świadczę usługi redaktorskie i marketingowe. Obsługuję strony w
-  trybie offline i online. Mam duże doświadczenie jako Content Manager.
+  trybie offline i online.
 intro:
   blurbs:
-    - image: /img/webcontentmanager.jpg
-      text: |-
-        Windows, WordPress (WooCommerce), Atom, Chrome Web Tools, Photoshop.
-        HTML, CSS, JavaScript, PHP, MySQL, cPanel
-        Sass, Bootstrap, Tailwind
-        GitHub, Gatsby, Hugo
     - image: /img/apple-touch-icon.png
-      text: Budowanie stron od początku do końca, przygotowanie nowoczesnych,
-        przyjaznych w obsłudze i bezpiecznych witryn internetowych. Strony
-        wizytowe, firmowe, portfolio, sklepy. Najczęściej używany framework
-        WordPress.
+      text: Buduję strony od początku do końca. Korzystam z nowoczesnych, przyjaznych
+        w obsłudze i bezpiecznych witryn internetowych. Strony wizytowe,
+        firmowe, portfolio, sklepy. Najczęściej używam WordPress'a.
     - text: "Główne cele: Minimum kodu i maksymalne zaangażowanie klienta.
         Przechodzenie z trybu stron dynamicznych do stron statycznych.
         Zwiększenie szybkości ładowania strony, integracja z systemem,
         bezpieczeństwo."
       image: /img/apple-touch-icon.png
+    - image: /img/webcontentmanager.jpg
+      text: Web Content Manager / WordPress
+    - image: /img/content_manager.jpg
+      text: For Your Business
   heading: Web Content Manager
   description: Samodzielny specjalista w zakresie programowania, projektowania i
     realizacji. Menedżer treści multimedialnych, WWW, treści społecznościowych.
