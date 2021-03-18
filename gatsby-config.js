@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Web Content Manager - WordPress - Warszawa',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Media Content Manager, Web Content Manager, Web Media Manager, Social Content Manager, Front-end Developer, WordPress',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
