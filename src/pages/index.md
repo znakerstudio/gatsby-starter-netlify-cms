@@ -7,8 +7,10 @@ heading: Dlatego pomagam budować strony, które są szybkie, czytelne i trafiaj
 subheading: Jeśli czytasz ten akapit to znaczy, że już osiągnąłem sukces :)
 mainpitch:
   title: Kilka sekund
-  description: "Tyle trwa uwaga klienta, który szuka usługi, odpowiedzi lub
-    gotowego produktu. "
+  description: >+
+    Tyle trwa uwaga klienta, który szuka usługi, odpowiedzi lub gotowego
+    produktu. 
+
 description: Świadczę usługi redaktorskie i marketingowe. Obsługuję strony w
   trybie offline i online.
 intro:
@@ -22,10 +24,6 @@ intro:
         Zwiększenie szybkości ładowania strony, integracja z systemem,
         bezpieczeństwo."
       image: /img/apple-touch-icon.png
-    - image: /img/webcontentmanager.jpg
-      text: Web Content Manager / WordPress
-    - image: /img/content_manager.jpg
-      text: For Your Business
   heading: Web Content Manager
   description: Samodzielny specjalista w zakresie programowania, projektowania i
     realizacji. Menedżer treści multimedialnych, WWW, treści społecznościowych.
