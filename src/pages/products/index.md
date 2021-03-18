@@ -3,7 +3,7 @@ heading: Tworzenie stron internetowych
 path: /products
 templateKey: product-page
 title: Moja specjalność
-image: /img/zoompantone.jpg
+image: /img/webcontenttrends2021.png
 description: WordPress, HTML, CSS, WooCommerce, MySQL, Photoshop, Adobe, Office,
   Atom, Visual Studio Code, Git.
 intro:
@@ -43,7 +43,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/webcontentmanagment.jpg
+full_image: /img/mixproductstrendsoftheyear.png
 pricing:
   heading: "Cennik "
   description: Produkcja strony internetowej podzielona na etapy.
