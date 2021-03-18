@@ -12,13 +12,13 @@ mainpitch:
 description: Obsługa offline i online. Minimum kodu.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/webcontentmanager.jpg
       text: |-
         Windows, WordPress (WooCommerce), Atom, Chrome Web Tools, Photoshop.
         HTML, CSS, JavaScript, PHP, MySQL, cPanel
         Sass, Bootstrap, Tailwind
         GitHub, Gatsby, Hugo
-    - image: /img/coffee-gear.png
+    - image: /img/tutorials.png
       text: Budowanie stron od początku do końca, przygotowanie nowoczesnych,
         przyjaznych w obsłudze i bezpiecznych witryn internetowych. Strony
         wizytowe, firmowe, portfolio, sklepy. Najczęściej używany framework
@@ -36,11 +36,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/0002sadasd.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/produkcja_stronywww.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/webcontentmanagment.jpg
 ---
