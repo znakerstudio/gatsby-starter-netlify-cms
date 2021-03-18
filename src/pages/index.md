@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Szybkie wejście do internetu
-image: /img/trends2021.png
+image: /img/webcontenttrends2021.png
 heading: Dlatego pomagam budować strony, które są szybkie, czytelne i trafiają w
   potrzeby rynku.
 subheading: Jeśli czytasz ten akapit to znaczy, że już osiągnąłem sukces :)
@@ -15,7 +15,7 @@ description: Świadczę usługi redaktorskie i marketingowe. Obsługuję strony 
   trybie offline i online.
 intro:
   blurbs:
-    - image: /img/apple-touch-icon.png
+    - image: /img/webcontentmanager_color.png
       text: Buduję strony od początku do końca. Korzystam z nowoczesnych, przyjaznych
         w obsłudze i bezpiecznych witryn internetowych. Strony wizytowe,
         firmowe, portfolio, sklepy. Najczęściej używam WordPress'a.
@@ -23,7 +23,7 @@ intro:
         Przechodzenie z trybu stron dynamicznych do stron statycznych.
         Zwiększenie szybkości ładowania strony, integracja z systemem,
         bezpieczeństwo."
-      image: /img/apple-touch-icon.png
+      image: /img/webcontentmanager_color_mix.png
   heading: Web Content Manager
   description: Samodzielny specjalista w zakresie programowania, projektowania i
     realizacji. Menedżer treści multimedialnych, WWW, treści społecznościowych.
