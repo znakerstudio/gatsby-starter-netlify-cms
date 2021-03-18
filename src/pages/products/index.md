@@ -3,7 +3,7 @@ heading: Tworzenie stron internetowych
 path: /products
 templateKey: product-page
 title: Moja specjalność
-image: /img/webcontenttrends2021.png
+image: /img/landingpage_webcontent_manager.png
 description: WordPress, HTML, CSS, WooCommerce, MySQL, Photoshop, Adobe, Office,
   Atom, Visual Studio Code, Git.
 intro:
