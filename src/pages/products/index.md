@@ -23,7 +23,10 @@ main:
   heading: W jaki sposób działamy.
   description: Moja oferta składa się z 3 części. Podstawą jest wspólna rozmowa,
     opracowanie planu działania i sporządzenie kosztorysu pod zamówienie. W
-    następnej kolejności wdrażam projekt według scenariusza.
+    następnej kolejności wdrażam projekt według scenariusza. Instalujemy
+    wszystkie niezbędne dodatki potrzebne do uruchomienia strony. W ostatniej
+    kolejności zajmuję się administracją strony. Wprowadzam na stronę treść,
+    stylizuję ją i optymalizuję pod kątem SEO.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
