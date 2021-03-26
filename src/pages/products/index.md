@@ -36,7 +36,11 @@ main:
   image3:
     alt: website stronawww portfolio
     image: /img/mixproductstrendsoftheyear.png
-testimonials: []
+testimonials:
+  - quote: silence is golden
+    author: wp team
+  - quote: code is poetry
+    author: wp team
 full_image: /img/webcontentmanagment.jpg
 pricing:
   heading: "Cennik "
