@@ -35,7 +35,7 @@ main:
     image: /img/okladkighfhf.jpg
   image3:
     alt: website stronawww portfolio
-    image: /img/0002sadasd.jpg
+    image: /img/mixproductstrendsoftheyear.png
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
@@ -43,7 +43,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/mixproductstrendsoftheyear.png
+full_image: /img/webcontentmanagment.jpg
 pricing:
   heading: "Cennik "
   description: Produkcja strony internetowej podzielona na etapy.
