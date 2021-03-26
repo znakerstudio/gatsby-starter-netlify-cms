@@ -39,32 +39,17 @@ const Footer = class extends React.Component {
                         Oferta
                       </Link>
                     </li>
-                    <li>
-                      <Link className="navbar-item" to="https://znakerstudio.github.io">
-                        Przykłady na stronie zewnętrznej
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
                   </ul>
                 </section>
               </div>
               <div className="column is-4">
                 <section>
                   <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        blog
-                      </Link>
-                    </li>
+                  <li>
+                    <Link className="navbar-item" to="https://znakerstudio.github.io">
+                      Oficjalna strona: Kontakt, Portfolio, Zasady współpracy ZNAKER STUDIO
+                    </Link>
+                  </li>
                     <li>
                       <Link className="navbar-item" to="https://znakerstudio.github.io">
                         Kontakt
