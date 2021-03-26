@@ -25,4 +25,4 @@ Załóżmy, że prowadzisz własną firmę i próbujesz ją pokazać swoim klien
 
 Z pozdrowieniami
 
-![](/img/webcontentmanager.jpg)
+![### Web Content Manager](/img/webcontentmanager.jpg "Web Content Manager")
